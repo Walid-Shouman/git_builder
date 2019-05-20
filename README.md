@@ -1,4 +1,4 @@
-## Dockerized Git installation
+## Dockerized Git Builder
 
 Use this repo to build git from source inside a docker container.
 
