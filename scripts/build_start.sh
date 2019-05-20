@@ -2,6 +2,7 @@
 git pull origin master
 ######
 
+autopoint
 autoconf
 ./configure "${CONFIG_OPTIONS}"
 make
